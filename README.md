@@ -1,5 +1,12 @@
-# SaneSocket
-SaneSocket is a simple and efficient WebSocket wrapper for JavaScript and TypeScript that provides a more intuitive, pull-based API. It simplifies the handling of WebSocket communication by allowing developers to focus on message processing without getting bogged down in callback hell.
+# SaneSocket ![npm version](https://img.shields.io/npm/v/sanesockets) ![license](https://img.shields.io/badge/license-MIT-brightgreen)
+
+# SaneSockets
+SaneSockets is a simple and efficient WebSocket wrapper for JavaScript and TypeScript that provides a more intuitive, pull-based API. It simplifies the handling of WebSocket communication by allowing developers to focus on message processing without getting bogged down in callback hell.
+
+## Why SaneSockets?
+
+In a world where real-time communication is crucial, managing WebSocket connections can often lead to complex code. SaneSocket aims to streamline this process by offering an easy-to-use interface that reduces boilerplate code while enhancing readability and maintainability.
+
 
 ## Features
 
